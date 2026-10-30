@@ -1,4 +1,4 @@
-# TwistBioscienceInterview
+# TwistBioscienceInterviews
 
 To run this just run `./gradlew run` (or ``gradlew` on Windows) from the root folder
 
